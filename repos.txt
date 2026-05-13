@@ -10,7 +10,7 @@
 # NullLatency/FlowDriver|linux-amd64|darwin-amd64
 
 # 3. Mix of keywords and file extensions (note escaping of dots)
-v2rayA/v2rayA|installer_debian_x64_2.4.0.deb
+v2rayA/v2rayA
 
 # 4. Only specific file extensions (use .dmg and .exe – backslashes for literal dot)
 # KaringX/karing|\.dmg|\.exe
