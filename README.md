@@ -157,108 +157,13 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="v2raya--v2raya"></div>
+<div id="hiddify--hiddify-app"></div>
 
-### v2rayA--v2rayA
+### hiddify--hiddify-app
 
-🔗 [source](https://github.com/v2rayA/v2rayA) – [<code><small>v2.2.7.5</small></code>](https://github.com/v2rayA/v2rayA/releases/tag/v2.2.7.5)
+🔗 [source](https://github.com/hiddify/hiddify-app) – [<code><small>v4.1.1</small></code>](https://github.com/hiddify/hiddify-app/releases/tag/v4.1.1)
 
 | File | Size | Download |
 |------|------|----------|
-| `installer_archlinux_arm64_2.2.7.5.pkg.tar.zst` | 11.8 MB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/installer_archlinux_arm64_2.2.7.5.pkg.tar.zst) |
-| `installer_archlinux_arm64_2.2.7.5.pkg.tar.zst.sha256.txt` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/installer_archlinux_arm64_2.2.7.5.pkg.tar.zst.sha256.txt) |
-| `installer_archlinux_armv7_2.2.7.5.pkg.tar.zst` | 12.0 MB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/installer_archlinux_armv7_2.2.7.5.pkg.tar.zst) |
-| `installer_archlinux_armv7_2.2.7.5.pkg.tar.zst.sha256.txt` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/installer_archlinux_armv7_2.2.7.5.pkg.tar.zst.sha256.txt) |
-| `installer_archlinux_loongarch64_2.2.7.5.pkg.tar.zst` | 12.0 MB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/installer_archlinux_loongarch64_2.2.7.5.pkg.tar.zst) |
-| `installer_archlinux_loongarch64_2.2.7.5.pkg.tar.zst.sha256.txt` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/installer_archlinux_loongarch64_2.2.7.5.pkg.tar.zst.sha256.txt) |
-| `installer_archlinux_riscv64_2.2.7.5.pkg.tar.zst` | 12.1 MB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/installer_archlinux_riscv64_2.2.7.5.pkg.tar.zst) |
-| `installer_archlinux_riscv64_2.2.7.5.pkg.tar.zst.sha256.txt` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/installer_archlinux_riscv64_2.2.7.5.pkg.tar.zst.sha256.txt) |
-| `installer_archlinux_x64_2.2.7.5.pkg.tar.zst` | 12.8 MB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/installer_archlinux_x64_2.2.7.5.pkg.tar.zst) |
-| `installer_archlinux_x64_2.2.7.5.pkg.tar.zst.sha256.txt` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/installer_archlinux_x64_2.2.7.5.pkg.tar.zst.sha256.txt) |
-| `installer_archlinux_x86_2.2.7.5.pkg.tar.zst` | 12.1 MB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/installer_archlinux_x86_2.2.7.5.pkg.tar.zst) |
-| `installer_archlinux_x86_2.2.7.5.pkg.tar.zst.sha256.txt` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/installer_archlinux_x86_2.2.7.5.pkg.tar.zst.sha256.txt) |
-| `installer_debian_arm64_2.2.7.5.deb` | 12.0 MB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/installer_debian_arm64_2.2.7.5.deb) |
-| `installer_debian_arm64_2.2.7.5.deb.sha256.txt` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/installer_debian_arm64_2.2.7.5.deb.sha256.txt) |
-| `installer_debian_armv7_2.2.7.5.deb` | 12.3 MB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/installer_debian_armv7_2.2.7.5.deb) |
-| `installer_debian_armv7_2.2.7.5.deb.sha256.txt` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/installer_debian_armv7_2.2.7.5.deb.sha256.txt) |
-| `installer_debian_loongarch64_2.2.7.5.deb` | 12.3 MB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/installer_debian_loongarch64_2.2.7.5.deb) |
-| `installer_debian_loongarch64_2.2.7.5.deb.sha256.txt` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/installer_debian_loongarch64_2.2.7.5.deb.sha256.txt) |
-| `installer_debian_mips32le_2.2.7.5.deb` | 11.8 MB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/installer_debian_mips32le_2.2.7.5.deb) |
-| `installer_debian_mips32le_2.2.7.5.deb.sha256.txt` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/installer_debian_mips32le_2.2.7.5.deb.sha256.txt) |
-| `installer_debian_mips32_2.2.7.5.deb` | 12.0 MB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/installer_debian_mips32_2.2.7.5.deb) |
-| `installer_debian_mips32_2.2.7.5.deb.sha256.txt` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/installer_debian_mips32_2.2.7.5.deb.sha256.txt) |
-| `installer_debian_mips64le_2.2.7.5.deb` | 11.6 MB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/installer_debian_mips64le_2.2.7.5.deb) |
-| `installer_debian_mips64le_2.2.7.5.deb.sha256.txt` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/installer_debian_mips64le_2.2.7.5.deb.sha256.txt) |
-| `installer_debian_mips64_2.2.7.5.deb` | 11.8 MB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/installer_debian_mips64_2.2.7.5.deb) |
-| `installer_debian_mips64_2.2.7.5.deb.sha256.txt` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/installer_debian_mips64_2.2.7.5.deb.sha256.txt) |
-| `installer_debian_riscv64_2.2.7.5.deb` | 12.3 MB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/installer_debian_riscv64_2.2.7.5.deb) |
-| `installer_debian_riscv64_2.2.7.5.deb.sha256.txt` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/installer_debian_riscv64_2.2.7.5.deb.sha256.txt) |
-| `installer_debian_x64_2.2.7.5.deb` | 12.9 MB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/installer_debian_x64_2.2.7.5.deb) |
-| `installer_debian_x64_2.2.7.5.deb.sha256.txt` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/installer_debian_x64_2.2.7.5.deb.sha256.txt) |
-| `installer_debian_x86_2.2.7.5.deb` | 12.4 MB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/installer_debian_x86_2.2.7.5.deb) |
-| `installer_debian_x86_2.2.7.5.deb.sha256.txt` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/installer_debian_x86_2.2.7.5.deb.sha256.txt) |
-| `installer_redhat_arm64_2.2.7.5.rpm` | 11.9 MB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/installer_redhat_arm64_2.2.7.5.rpm) |
-| `installer_redhat_arm64_2.2.7.5.rpm.sha256.txt` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/installer_redhat_arm64_2.2.7.5.rpm.sha256.txt) |
-| `installer_redhat_armv7_2.2.7.5.rpm` | 12.2 MB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/installer_redhat_armv7_2.2.7.5.rpm) |
-| `installer_redhat_armv7_2.2.7.5.rpm.sha256.txt` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/installer_redhat_armv7_2.2.7.5.rpm.sha256.txt) |
-| `installer_redhat_loongarch64_2.2.7.5.rpm` | 12.2 MB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/installer_redhat_loongarch64_2.2.7.5.rpm) |
-| `installer_redhat_loongarch64_2.2.7.5.rpm.sha256.txt` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/installer_redhat_loongarch64_2.2.7.5.rpm.sha256.txt) |
-| `installer_redhat_mips32le_2.2.7.5.rpm` | 11.7 MB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/installer_redhat_mips32le_2.2.7.5.rpm) |
-| `installer_redhat_mips32le_2.2.7.5.rpm.sha256.txt` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/installer_redhat_mips32le_2.2.7.5.rpm.sha256.txt) |
-| `installer_redhat_mips32_2.2.7.5.rpm` | 11.8 MB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/installer_redhat_mips32_2.2.7.5.rpm) |
-| `installer_redhat_mips32_2.2.7.5.rpm.sha256.txt` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/installer_redhat_mips32_2.2.7.5.rpm.sha256.txt) |
-| `installer_redhat_mips64le_2.2.7.5.rpm` | 11.5 MB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/installer_redhat_mips64le_2.2.7.5.rpm) |
-| `installer_redhat_mips64le_2.2.7.5.rpm.sha256.txt` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/installer_redhat_mips64le_2.2.7.5.rpm.sha256.txt) |
-| `installer_redhat_mips64_2.2.7.5.rpm` | 11.6 MB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/installer_redhat_mips64_2.2.7.5.rpm) |
-| `installer_redhat_mips64_2.2.7.5.rpm.sha256.txt` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/installer_redhat_mips64_2.2.7.5.rpm.sha256.txt) |
-| `installer_redhat_riscv64_2.2.7.5.rpm` | 12.3 MB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/installer_redhat_riscv64_2.2.7.5.rpm) |
-| `installer_redhat_riscv64_2.2.7.5.rpm.sha256.txt` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/installer_redhat_riscv64_2.2.7.5.rpm.sha256.txt) |
-| `installer_redhat_x64_2.2.7.5.rpm` | 12.8 MB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/installer_redhat_x64_2.2.7.5.rpm) |
-| `installer_redhat_x64_2.2.7.5.rpm.sha256.txt` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/installer_redhat_x64_2.2.7.5.rpm.sha256.txt) |
-| `installer_redhat_x86_2.2.7.5.rpm` | 12.3 MB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/installer_redhat_x86_2.2.7.5.rpm) |
-| `installer_redhat_x86_2.2.7.5.rpm.sha256.txt` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/installer_redhat_x86_2.2.7.5.rpm.sha256.txt) |
-| `installer_windows_inno_arm64_2.2.7.5.exe` | 20.4 MB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/installer_windows_inno_arm64_2.2.7.5.exe) |
-| `installer_windows_inno_arm64_2.2.7.5.exe.sha256.txt` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/installer_windows_inno_arm64_2.2.7.5.exe.sha256.txt) |
-| `installer_windows_inno_x64_2.2.7.5.exe` | 22.2 MB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/installer_windows_inno_x64_2.2.7.5.exe) |
-| `installer_windows_inno_x64_2.2.7.5.exe.sha256.txt` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/installer_windows_inno_x64_2.2.7.5.exe.sha256.txt) |
-| `v2raya_darwin_arm64_2.2.7.5` | 27.6 MB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/v2raya_darwin_arm64_2.2.7.5) |
-| `v2raya_darwin_arm64_2.2.7.5.sha256.txt` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/v2raya_darwin_arm64_2.2.7.5.sha256.txt) |
-| `v2raya_darwin_x64_2.2.7.5` | 28.9 MB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/v2raya_darwin_x64_2.2.7.5) |
-| `v2raya_darwin_x64_2.2.7.5.sha256.txt` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/v2raya_darwin_x64_2.2.7.5.sha256.txt) |
-| `v2raya_freebsd_arm64_2.2.7.5` | 26.5 MB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/v2raya_freebsd_arm64_2.2.7.5) |
-| `v2raya_freebsd_arm64_2.2.7.5.sha256.txt` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/v2raya_freebsd_arm64_2.2.7.5.sha256.txt) |
-| `v2raya_freebsd_x64_2.2.7.5` | 28.0 MB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/v2raya_freebsd_x64_2.2.7.5) |
-| `v2raya_freebsd_x64_2.2.7.5.sha256.txt` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/v2raya_freebsd_x64_2.2.7.5.sha256.txt) |
-| `v2raya_linux_arm64_2.2.7.5` | 28.6 MB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/v2raya_linux_arm64_2.2.7.5) |
-| `v2raya_linux_arm64_2.2.7.5.sha256.txt` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/v2raya_linux_arm64_2.2.7.5.sha256.txt) |
-| `v2raya_linux_armv7_2.2.7.5` | 28.6 MB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/v2raya_linux_armv7_2.2.7.5) |
-| `v2raya_linux_armv7_2.2.7.5.sha256.txt` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/v2raya_linux_armv7_2.2.7.5.sha256.txt) |
-| `v2raya_linux_loongarch64_2.2.7.5` | 29.3 MB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/v2raya_linux_loongarch64_2.2.7.5) |
-| `v2raya_linux_loongarch64_2.2.7.5.sha256.txt` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/v2raya_linux_loongarch64_2.2.7.5.sha256.txt) |
-| `v2raya_linux_mips32le_2.2.7.5` | 32.1 MB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/v2raya_linux_mips32le_2.2.7.5) |
-| `v2raya_linux_mips32le_2.2.7.5.sha256.txt` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/v2raya_linux_mips32le_2.2.7.5.sha256.txt) |
-| `v2raya_linux_mips32_2.2.7.5` | 32.1 MB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/v2raya_linux_mips32_2.2.7.5) |
-| `v2raya_linux_mips32_2.2.7.5.sha256.txt` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/v2raya_linux_mips32_2.2.7.5.sha256.txt) |
-| `v2raya_linux_mips64le_2.2.7.5` | 32.9 MB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/v2raya_linux_mips64le_2.2.7.5) |
-| `v2raya_linux_mips64le_2.2.7.5.sha256.txt` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/v2raya_linux_mips64le_2.2.7.5.sha256.txt) |
-| `v2raya_linux_mips64_2.2.7.5` | 32.9 MB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/v2raya_linux_mips64_2.2.7.5) |
-| `v2raya_linux_mips64_2.2.7.5.sha256.txt` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/v2raya_linux_mips64_2.2.7.5.sha256.txt) |
-| `v2raya_linux_riscv64_2.2.7.5` | 29.1 MB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/v2raya_linux_riscv64_2.2.7.5) |
-| `v2raya_linux_riscv64_2.2.7.5.sha256.txt` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/v2raya_linux_riscv64_2.2.7.5.sha256.txt) |
-| `v2raya_linux_x64_2.2.7.5` | 30.3 MB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/v2raya_linux_x64_2.2.7.5) |
-| `v2raya_linux_x64_2.2.7.5.sha256.txt` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/v2raya_linux_x64_2.2.7.5.sha256.txt) |
-| `v2raya_linux_x86_2.2.7.5` | 28.5 MB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/v2raya_linux_x86_2.2.7.5) |
-| `v2raya_linux_x86_2.2.7.5.sha256.txt` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/v2raya_linux_x86_2.2.7.5.sha256.txt) |
-| `v2raya_openbsd_arm64_2.2.7.5` | 26.3 MB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/v2raya_openbsd_arm64_2.2.7.5) |
-| `v2raya_openbsd_arm64_2.2.7.5.sha256.txt` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/v2raya_openbsd_arm64_2.2.7.5.sha256.txt) |
-| `v2raya_openbsd_x64_2.2.7.5` | 27.8 MB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/v2raya_openbsd_x64_2.2.7.5) |
-| `v2raya_openbsd_x64_2.2.7.5.sha256.txt` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/v2raya_openbsd_x64_2.2.7.5.sha256.txt) |
-| `v2raya_windows_arm64_2.2.7.5.exe` | 27.3 MB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/v2raya_windows_arm64_2.2.7.5.exe) |
-| `v2raya_windows_arm64_2.2.7.5.exe.sha256.txt` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/v2raya_windows_arm64_2.2.7.5.exe.sha256.txt) |
-| `v2raya_windows_x64_2.2.7.5.exe` | 29.4 MB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/v2raya_windows_x64_2.2.7.5.exe) |
-| `v2raya_windows_x64_2.2.7.5.exe.sha256.txt` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/v2raya_windows_x64_2.2.7.5.exe.sha256.txt) |
-| `web.tar.gz` | 2.6 MB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/web.tar.gz) |
-| `web.tar.gz.sha256.txt` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/web.tar.gz.sha256.txt) |
-| `web.zip` | 2.6 MB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/web.zip) |
-| `web.zip.sha256.txt` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/v2rayA/v2rayA/web.zip.sha256.txt) |
+| `Hiddify-Debian-x64.deb` | 40.4 MB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/hiddify/hiddify-app/Hiddify-Debian-x64.deb) |
 <!-- RELEASES_END -->
