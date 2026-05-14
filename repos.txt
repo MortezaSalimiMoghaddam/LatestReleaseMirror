@@ -10,7 +10,7 @@
 # NullLatency/FlowDriver|linux-amd64|darwin-amd64
 
 # 3. Mix of keywords and file extensions (note escaping of dots)
-hiddify/hiddify-app|Hiddify-Debian-x64.deb
+hiddify/hiddify-app|Hiddify-Debian-x64.deb|Hiddify-Windows-Portable-x64.zip
 
 # 4. Only specific file extensions (use .dmg and .exe – backslashes for literal dot)
 # KaringX/karing|\.dmg|\.exe
