@@ -168,4 +168,5 @@ sha256sum FILE_NAME
 | `Hiddify-Debian-x64.deb` | 40.4 MB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/hiddify/hiddify-app/Hiddify-Debian-x64.deb) |
 | `Hiddify-Windows-Portable-x64.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/hiddify/hiddify-app/Hiddify-Windows-Portable-x64.zip.001) |
 | `Hiddify-Windows-Portable-x64.zip (part 2 of 2)` | 22.2 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/hiddify/hiddify-app/Hiddify-Windows-Portable-x64.zip.002) |
+| `Hiddify-Windows-Setup-x64.exe` | 34.7 MB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/hiddify/hiddify-app/Hiddify-Windows-Setup-x64.exe) |
 <!-- RELEASES_END -->
