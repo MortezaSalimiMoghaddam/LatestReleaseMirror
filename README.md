@@ -157,16 +157,33 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="hiddify--hiddify-app"></div>
+<div id="2dust--v2rayn"></div>
 
-### hiddify--hiddify-app
+### 2dust--v2rayN
 
-🔗 [source](https://github.com/hiddify/hiddify-app) – [<code><small>v4.1.1</small></code>](https://github.com/hiddify/hiddify-app/releases/tag/v4.1.1)
+🔗 [source](https://github.com/2dust/v2rayN) – [<code><small>7.21.3</small></code>](https://github.com/2dust/v2rayN/releases/tag/7.21.3)
 
 | File | Size | Download |
 |------|------|----------|
-| `Hiddify-Debian-x64.deb` | 40.4 MB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/hiddify/hiddify-app/Hiddify-Debian-x64.deb) |
-| `Hiddify-Windows-Portable-x64.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/hiddify/hiddify-app/Hiddify-Windows-Portable-x64.zip.001) |
-| `Hiddify-Windows-Portable-x64.zip (part 2 of 2)` | 22.2 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/hiddify/hiddify-app/Hiddify-Windows-Portable-x64.zip.002) |
-| `Hiddify-Windows-Setup-x64.exe` | 34.7 MB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/hiddify/hiddify-app/Hiddify-Windows-Setup-x64.exe) |
+| `v2rayN-linux-64.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-linux-64.zip.001) |
+| `v2rayN-linux-64.zip (part 2 of 2)` | 29.5 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-linux-64.zip.002) |
+| `v2rayN-linux-arm64.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-linux-arm64.zip.001) |
+| `v2rayN-linux-arm64.zip (part 2 of 2)` | 22.9 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-linux-arm64.zip.002) |
+| `v2rayN-linux-rhel-riscv64.rpm` | 78.2 MB | [⬇️ Download](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-linux-rhel-riscv64.rpm) |
+| `v2rayN-macos-64.dmg (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-macos-64.dmg.001) |
+| `v2rayN-macos-64.dmg (part 2 of 2)` | 27.3 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-macos-64.dmg.002) |
+| `v2rayN-macos-64.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-macos-64.zip.001) |
+| `v2rayN-macos-64.zip (part 2 of 2)` | 29.3 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-macos-64.zip.002) |
+| `v2rayN-macos-arm64.dmg (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-macos-arm64.dmg.001) |
+| `v2rayN-macos-arm64.dmg (part 2 of 2)` | 22.1 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-macos-arm64.dmg.002) |
+| `v2rayN-macos-arm64.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-macos-arm64.zip.001) |
+| `v2rayN-macos-arm64.zip (part 2 of 2)` | 23.7 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-macos-arm64.zip.002) |
+| `v2rayN-windows-64-desktop.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-windows-64-desktop.zip.001) |
+| `v2rayN-windows-64-desktop.zip (part 2 of 2)` | 28.1 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-windows-64-desktop.zip.002) |
+| `v2rayN-windows-64.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-windows-64.zip.001) |
+| `v2rayN-windows-64.zip (part 2 of 2)` | 60.6 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-windows-64.zip.002) |
+| `v2rayN-windows-arm64-desktop.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-windows-arm64-desktop.zip.001) |
+| `v2rayN-windows-arm64-desktop.zip (part 2 of 2)` | 20.7 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-windows-arm64-desktop.zip.002) |
+| `v2rayN-windows-arm64.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-windows-arm64.zip.001) |
+| `v2rayN-windows-arm64.zip (part 2 of 2)` | 50.4 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MortezaSalimiMoghaddam/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-windows-arm64.zip.002) |
 <!-- RELEASES_END -->
